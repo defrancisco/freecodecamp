@@ -1,0 +1,336 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hedy Lamarr Tribute Page</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Asegúrate de tener este archivo CSS vinculado -->
+</head>
+<body>
+  <main id="main">
+    <h1 id="title">Hedy Lamarr, una prodigiosa inventora</h1>
+
+    <div id="img-div">
+      <img id="image" src="https://media.revistavanityfair.es/photos/60e8539c70839211f5445993/master/w_1600%2Cc_limit/57011.jpg" alt="Hedy Lamarr" />
+      <div id="img-caption">Hedy Lamarr: actriz, inventora y espia.</div>
+    </div>
+
+    <div id="tribute-info">
+      <p>Hedwig Eva Maria Kiesler, conocida en Hollywood como Hedy Lamarr, fue una reconocida actriz e inventora austríaca que protagonizó el primer desnudo integral de la historia del cine. Considerada popularmente como una de las actrices más bellas de Hollywood, Hedy Lamarr fue además una genial inventora que desarrolló, entre otras cosas, el wifi. De hecho, en Austria, el Día del Inventor se celebra el 9 de noviembre en su honor</p>
+    </div>
+    
+<h3>Timeline of Hedy Lamarr</h3>
+    <div class="timeline">
+        <div class="event">
+            <h4>1910 - 1920: Infancia y Educación</h4>
+            <ul>
+            <li><span class="date">9 de noviembre de 1914:</span> Nacimiento</l1>
+            <p>Hedy Lamarr nace como <strong>Hedwig Eva Maria Kiesler</strong> en <strong>Viena, Austria</strong>, en una familia judía acomodada.</p>
+            
+            <li><span class="date">1914 - 1920:</span> Infancia</li>
+            <p>Desde temprana edad, Hedy muestra interés por las artes escénicas y las ciencias, influenciada por su padre.</p>
+            </ul>
+        </div>
+
+        <div class="event">
+            <h4>1920 - 1930: Inicios en la Actuación</h4>
+            <ul>
+            <li><span class="date">1929:</span> Primer Papel Cinematográfico</li>
+            <p>A los <strong>15 años</strong>, Hedy obtiene su primer papel en la película austriaca <strong>"Geld auf der Straße"</strong> (Dinero en la calle).</p>
+            <li><span class="date">1933:</span> Película Controvertida "Éxtasis"</li>
+            <p>Protagoniza la película checoslovaca <strong>"Éxtasis"</strong>, que causa controversia internacional por sus escenas de desnudez.</p>
+            <li><span class="date">1933:</span> Matrimonio con Fritz Mandl</li>
+            <p>Se casa con <strong>Fritz Mandl</strong>, un rico fabricante de armas austriaco, pero el matrimonio es turbulento y restrictivo.</p>
+           </ul> 
+        </div>
+
+        <div class="event">
+            <h4>1930 - 1940: Huida y Ascenso en Hollywood</h4>
+            <ul>
+            <li><span class="date">1937:</span> Huida de Austria</li>
+            <p>Hedy escapa de su matrimonio y de la amenaza nazi, mudándose primero a <strong>París</strong> y luego a <strong>Londres</strong>.</p>
+            <li><span class="date">1937:</span> Encuentro con Louis B. Mayer</li>
+            <p>Conoce al magnate de Hollywood <strong>Louis B. Mayer</strong>, quien le ofrece un contrato con <strong>MGM</strong> y adopta el nombre artístico <strong>Hedy Lamarr</strong>.</p>
+            <li><span class="date">1938:</span> Debut en Hollywood</li>
+            <p>Hace su debut en el cine estadounidense con la película <strong>"Argel"</strong>, convirtiéndose rápidamente en una estrella.</p>
+            <li><span class="date">1939 - 1940:</span> Películas Destacadas</li>
+            <p>"Lady of the Tropics" (1939), "Boom Town" (1940), "Comrade X" (1940).</p>
+           </ul> 
+        </div>
+
+        <div class="event">
+            <h4>1940 - 1950: Innovación Tecnológica y Continuación de su Carrera</h4>
+            <ul>
+            <li><span class="date">1941:</span> Invención del Sistema de Comunicación Secreta</li>
+            <p>Junto con <strong>George Antheil</strong>, Hedy desarrolla un sistema de <strong>"espectro ensanchado por salto de frecuencia"</strong> para guiar torpedos sin ser detectados.</p>
+            <li><span class="date">1942:</span> Patente Nº 2,292,387</li>
+            <p>Se les concede la patente por su invento, que luego sería la base de tecnologías como <strong>Wi-Fi</strong>, <strong>Bluetooth</strong> y <strong>GPS</strong>.</p>
+            <li><span class="date">1942 - 1949:</span> Películas Notables</li>
+            <p>"Crossroads" (1942), "White Cargo" (1942), "Samson and Delilah" (1949).</p>
+            <li><span class="date">1943:</span> Esfuerzos de Guerra</li>
+            <p>Participa activamente en la venta de bonos de guerra, recaudando millones de dólares para el esfuerzo bélico estadounidense.</p>
+            </ul>
+        </div>
+
+        <div class="event">
+            <h4>1950 - 2000: Últimos Años y Reconocimiento Tardío</h4>
+           <ul> 
+            <li><span class="date">1950 - 1958:</span> Continuación en el Cine</li>
+            <p>Actúa en varias películas más, aunque su popularidad comienza a disminuir.</p>
+            <li><span class="date">1960:</span> Estrella en el Paseo de la Fama</li>
+            <p>Recibe una <strong>estrella en el Paseo de la Fama de Hollywood</strong>.</p>
+            <li><span class="date">1985:</span> Reconocimiento Tecnológico</li>
+            <p>Su invención comienza a ser reconocida cuando se usa en la crisis de los misiles de Cuba.</p>
+            <li><span class="date">1997:</span> Premios y Reconocimientos</li>
+            <p>Recibe el <strong>EFF Pioneer Award</strong> y el <strong>BULBIE™ Gnass Spirit of Achievement Award</strong>.</p>
+            <li><span class="date">19 de enero de 2000:</span> Fallecimiento</li>
+            <p>Hedy Lamarr fallece a los <strong>85 años</strong> en <strong>Casselberry, Florida</strong>.</p>
+        </ul>
+               </div>
+
+        <div class="event">
+            <h4>Legado Póstumo</h4>
+            <ul>
+            <li><span class="date">2003:</span> Día del Inventor</li>
+            <p>En su honor, el <strong>9 de noviembre</strong> se celebra el <strong>Día del Inventor</strong> en Alemania, Austria y Suiza.</p>
+            <li><span class="date">2014:</span> Documental "Bombshell: The Hedy Lamarr Story"</li>
+            <p>Se estrena un documental que explora su vida y legado.</p>
+            <li>Presente:</li>
+            <p>Hedy Lamarr es recordada como una <strong>pionera en la tecnología moderna</strong>, inspirando a mujeres en campos de STEM.</p>
+            </ul>
+        </div>
+    </div>
+    <a id="tribute-link" href="https://es.wikipedia.org/wiki/Hedy_Lamarr" target="_blank">
+      Aprende más sobre Hedy Lamarr en Wikipedia.
+    </a>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+  /* Establece un tamaño de fuente base de 10px para facilitar los cálculos en rem.
+     Información: 1rem === 10px, 1.5rem === 15px, 2rem === 20px, etc. */
+  font-size: 10px;
+}
+
+body {
+  /* Define una pila de fuentes nativas para mejorar la legibilidad y consistencia en múltiples plataformas. 
+     Usa un tamaño de fuente de 1.6rem (16px), un interlineado de 1.5, alinea el texto al centro, y establece el color de texto en #333 (gris oscuro). */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  /* Establece un tamaño de fuente de 4rem (40px) para el título h1 y un margen inferior de 0. */
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    /* Para pantallas con un ancho máximo de 460px, ajusta el tamaño de fuente del h1 a 3.5rem (35px) y establece un interlineado de 1.2. */
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  /* Establece un tamaño de fuente de 3.25rem (32.5px) para el h2. */
+  font-size: 3.25rem;
+}
+
+a {
+  /* Define el color de los enlaces como #477ca7 (azul). */
+  color: #477ca7;
+}
+
+a:visited {
+  /* Cambia el color de los enlaces visitados a #74638f (morado). */
+  color: #74638f;
+}
+
+#main {
+  /* Establece un margen de 30px en la parte superior e inferior y 8px en los lados. 
+     Añade un padding de 15px, bordes redondeados de 5px, y un fondo gris claro (#eee). */
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+@media (max-width: 460px) {
+  #main {
+    /* Para pantallas con un ancho máximo de 460px, elimina los márgenes laterales. */
+    margin: 0;
+  }
+}
+
+img {
+  /* Asegura que las imágenes no excedan el ancho del contenedor, las centra y mantiene la proporción de aspecto original. */
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  /* Aplica un fondo blanco, padding de 10px, y elimina el margen del div que contiene la imagen. */
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  /* Establece márgenes en la parte superior (15px) e inferior (5px) del texto que describe la imagen. */
+  margin: 15px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    /* Para pantallas con un ancho máximo de 460px, ajusta el tamaño de fuente del pie de foto a 1.4rem (14px). */
+    font-size: 1.4rem;
+  }
+}
+
+#headline {
+  /* Define márgenes verticales de 50px y alinea el texto al centro para el encabezado principal. */
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  /* Limita el ancho máximo de la lista a 550px, centra la lista horizontalmente, y establece un margen inferior de 50px. 
+     Además, alinea el texto de los elementos de la lista a la izquierda y define un interlineado de 1.6. */
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  /* Aplica un margen de 16px en la parte superior e inferior de cada elemento de la lista. */
+  margin: 16px 0;
+}
+
+/* Repetición de la regla para body, quizás por error o combinación de códigos. */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+#main {
+  /* Define el ancho máximo del contenedor principal como 800px, lo centra automáticamente con márgenes auto, y aplica un padding de 20px. 
+     También le da un fondo blanco, bordes redondeados de 8px, y una sombra ligera para darle profundidad. */
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+  /* Alinea al centro los títulos h1, h2, y h3. */
+  text-align: center;
+}
+
+h1 {
+  /* Establece un margen inferior de 20px y un tamaño de fuente de 2.5em (tamaño relativo al font-size del elemento padre). 
+     Además, aplica el color #333 (gris oscuro) al h1. */
+  margin-bottom: 20px;
+  font-size: 2.5em;
+  color: #333;
+}
+
+#img-div {
+  /* Centra el div que contiene la imagen y aplica un margen inferior de 20px. */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#image {
+  /* Asegura que la imagen no exceda el ancho del contenedor, la centra horizontalmente, 
+     mantiene la proporción de aspecto original, y aplica bordes redondeados de 8px y una sombra ligera. */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#img-caption {
+  /* Estiliza el pie de foto con cursiva, un margen superior de 10px, y un color gris (#777). */
+  font-style: italic;
+  margin-top: 10px;
+  color: #777;
+}
+
+#tribute-info {
+  /* Aplica un margen inferior de 20px y alinea el texto justificado dentro del contenedor que contiene la información del tributo. */
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+#tribute-link {
+  /* Estiliza el enlace tributo como un bloque centrado, con un margen superior de 20px, color azul (#0066cc), 
+     y texto subrayado al pasar el cursor por encima. También aplica un estilo de texto en negrita. */
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#tribute-link:hover {
+  /* Cambia la decoración del texto a subrayado cuando se pasa el cursor sobre el enlace. */
+  text-decoration: underline;
+}
+
+.timeline {
+  /* Define un margen vertical de 30px para la sección de la línea de tiempo. */
+  margin: 30px 0;
+}
+
+.event {
+  /* Aplica un margen inferior de 20px, un padding izquierdo de 20px, y una línea vertical en el borde izquierdo de 3px color gris (#999) 
+     a cada evento dentro de la línea de tiempo. */
+  margin-bottom: 20px;
+  padding-left: 20px;
+  border-left: 3px solid #999;
+}
+
+.event h3 {
+  /* Aplica un margen inferior de 5px a los títulos h3 dentro de la línea de tiempo y les da un color azul (#0066cc). */
+  margin-bottom: 5px;
+  color: #0066cc;
+}
+
+.event p {
+  /* Elimina los márgenes alrededor de los párrafos dentro de cada evento en la línea de tiempo. */
+  margin: 0;
+}
+
+.date {
+  /* Estiliza las fechas dentro de los eventos de la línea de tiempo con un texto en negrita. */
+  font-weight: bold;
+}
+
+
+** end of undefined **
+

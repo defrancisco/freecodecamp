@@ -1,0 +1,183 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1 id="title">University Language Classes</h1>
+    <p id="description">Please fill out the survey below to enhance your university experience:</p>
+  </header>
+  
+  <main>
+    <form id="survey-form">
+      <!-- nombre -->
+      <label id="name-label" for="name">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required>
+      <!-- apellido -->
+      <label for="surname" id="surname-label">Surname:</label>
+      <input id="surname" type="text" required placeholder="Enter your surname">
+      <!-- mail -->
+      <label for="email" id="email-label">Email:</label>
+      <input id="email" type="email" required placeholder="Enter your mail">
+      <!-- nro -->
+      <label for="number" id="number-label">Student ID:</label>
+      <input id="number" type="number" required placeholder="Enter your student-id" min="7" max="9">
+      
+      <!-- Dropdown -->
+      <label for="dropdown">Which option best describes your current role?</label>
+      <select id="dropdown" name="role" required>
+        <option value="student">Student</option>
+        <option value="full-time-job">Full-Time Job</option>
+        <option value="full-time-learner">Full-Time Apprentice</option>
+        <option value="prefer-not-to-say">Prefer not to say</option>
+        <option value="other">Other</option>
+      </select>
+      
+      <!-- Radio Buttons -->
+      <label>Would you consider taking language classes?</label>
+      <label for="definitely"><input type="radio" id="definitely" name="recommend" value="definitely" required>Definitely</label><br>
+      <label for="maybe"><input type="radio" id="maybe" name="recommend" value="maybe">Maybe</label><br>
+     <label for="not-sure"> <input type="radio" id="not-sure" name="recommend" value="not-sure">Not sure</label><br>
+      
+      <!-- Checkboxes -->
+      <label>What languages would you like to learn? (Check all that apply)</label>
+     
+      <label for="german"> <input type="checkbox" id="german" name="language" value="german">German</label><br>
+    
+      <label for="italian"><input type="checkbox" id="italian" name="language" value="italian">Italian</label><br>
+      
+      <label for="portuguese"><input type="checkbox" id="portuguese" name="language" value="portuguese">Portuguese</label><br>
+      
+      <label for="french"><input type="checkbox" id="french" name="language" value="french">French</label><br>
+     
+      <label for="chinese"> <input type="checkbox" id="chinese" name="language" value="chinese">Chinese</label><br>
+      
+      <!-- TextArea -->
+      <label for="comments">Any comments or suggestions?</label>
+      <textarea id="comments" name="comments" placeholder="Enter your comments here..."></textarea>
+      
+      <!-- Submit Button -->
+      <button id="submit" type="submit">Submit</button>
+    </form>
+  </main>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffeef2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+    flex-direction: column;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    width: 100%; /* Asegura que el header se vea correctamente */
+    box-sizing: border-box; /* Para incluir el padding en el ancho total */
+}
+
+h1#title {
+    font-size: 2.5em;
+    color: #cc6699;
+}
+
+p#description {
+    font-size: 1.2em;
+    color: #aa5588;
+}
+
+/* Form container */
+form#survey-form {
+    background: #ffdee5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+/* Form labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #bb6688;
+}
+
+/* Form inputs */
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddaabb;
+    background-color: #ffeef2;
+    color: #555;
+    box-sizing: border-box;
+}
+
+/* Radio and checkbox styles */
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+input[type="radio"]:checked + label,
+input[type="checkbox"]:checked + label {
+    color: #cc6699;
+}
+
+/* Submit button */
+button#submit {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: #cc6699;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button#submit:hover {
+    background-color: #b35a7f;
+}
+
+/* Placeholder styling */
+input::placeholder,
+textarea::placeholder {
+    color: #dd88aa;
+}
+
+
+** end of undefined **
+
